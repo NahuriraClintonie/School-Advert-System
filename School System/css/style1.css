@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  header {
+    background-color: yellow;
+    padding: 1em;
+    text-align: center;
+  } */
+  
+  /* header h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 2em;
+  } */
+  
+  /* nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1em;
+    font-size: 1.2em;
+  } */
+  
+  main {
+    padding: 1em;
+    margin: auto;
+  }
+  
+  section {
+    padding: 2em 0;
+    margin: auto;
+    align-items: center;
+  }
+  section p{
+    text-align: center;
+    color: black;
+    font-size: 25px; 
+  }
+  
+  .logo-container {
+    align-items: center;
+    width: 5x;
+    height: 5px;
+    margin-right: 10px;
+  }
+
+  section h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+  }
+  
+  #hero {
+    text-align: center;
+  }
+  
+  #hero h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  
+  #hero p {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    color: black;
+  }
+  
+  .cta {
+    background-color: green;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 1em;
+    display: inline-block;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2em;
+  }
+  
+  form input, form textarea {
+    width: 60%;
+    padding: 0.5em;
+    font-size: 2em;
+    margin-bottom: 1em;
+    border: 3px solid yellow;
+    border-radius: 8px;
+  }
+  
+  form button {
+    background-color: green;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    font-size: 1.2em;
+    border: none;
+    margin-top: 1em;
+    cursor: pointer;
+  }
+  
+  footer {
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
+  
